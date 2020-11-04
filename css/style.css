@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#cadastro{
+  width: 500px;
+  margin-left: 300px;
+}
+#fetran{
+  color: rgba(145, 140, 129, 0.699);
+    font-size: 90px;
+}
+#cad{
+    border: black 1px double;
+    margin-left: 30px;
+}
