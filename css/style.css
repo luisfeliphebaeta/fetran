@@ -2,13 +2,50 @@
 
 #cadastro{
   width: 500px;
-  margin-left: 300px;
+  margin-left: 110px;
+
 }
 #fetran{
-  color: rgba(145, 140, 129, 0.699);
+  color: rgba(53, 53, 53, 0.699);
     font-size: 90px;
 }
 #cad{
     border: black 1px double;
     margin-left: 30px;
 }
+.center{
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+header{
+  width: 102%;
+  margin-top: -10px;
+  margin-left: -10px;
+  padding: 2px 0;
+  text-align: center;
+  background-color:  rgba(240, 182, 59, 0.699);
+}
+header li {
+  font-weight: bolder;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: inline-block;
+  margin: 0 40px;
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+.rodape {
+  margin-top: 20px;
+  margin-left: -10px;
+  display: block;
+  width: 102%;
+  text-align: center;
+  color: rgb(17, 16, 16);
+  background-color:  rgba(240, 182, 59, 0.699);
+  font-size: larger;
+}
+
+
